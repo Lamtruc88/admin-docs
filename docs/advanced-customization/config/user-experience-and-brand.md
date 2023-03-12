@@ -57,3 +57,4 @@ Be **extremely cautious** in changing this, as it can cause substantial issues i
 
 - Accidentally take a public forem back to private \(breaking links\)
 - Accidentally take a private forem to public \(exposing private information\)
+/admin/customization/config
